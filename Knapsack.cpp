@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-#include <algorithm>
 using namespace std; 
 
 int Knapsack(int *w, int *c, int max, int size){ 
